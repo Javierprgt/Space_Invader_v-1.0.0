@@ -3,6 +3,20 @@
 **Lenguaje:** Python  
 **Librería:** Pygame  
 
+## 🚀 Instrucciones de Instalación y Ejecución
+
+1. **Descarga del archivo:**  
+   Obtener el ejecutable desde el siguiente enlace directo:  
+   [Descargar Space Invader.exe](https://github.com/Javierprgt/Space_Invader_v-1.0.0/raw/refs/heads/main/Ejecutable/Videojuego_ProyectoFinal.zip)
+
+2. **Gestión de permisos:**  
+   Al iniciar la descarga, el navegador podría solicitar una confirmación de seguridad; se debe seleccionar **"Aceptar archivo sin verificación"**.
+
+3. **Ejecución en Windows:**  
+    Al abrir el archivo, si aparece una ventana azul de aviso, haz clic en **"Más información"** y luego en el botón **"Ejecutar de todas formas"**.
+
+4. **¡Listo!** El programa se descargo.
+
 ## 📌 Propósito del Proyecto
 El propósito de este proyecto es desarrollar un videojuego interactivo que permita aplicar de manera práctica los conocimientos adquiridos en la asignatura de Algoritmos y Estructuras de Datos. A través del desarrollo del videojuego, se busca comprender el funcionamiento de la programación y su uso para la resolución de problemas reales, fortaleciendo la lógica, la concentración y el pensamiento algorítmico.
 
