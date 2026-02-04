@@ -41,10 +41,13 @@ El sistema actualiza el puntaje y controla el avance de niveles en tiempo real. 
 
 ## 📂 Estructura del Proyecto
 ```plaintext
+/Ejecutable
+ └── Space_Invader_v_1.0.0.zip
 /ProyectoVideojuego
+ ├── AED-Grupo4-Informe-ProyectoFinal.pdf
+ ├── enemigo.png
+ ├── icono.io
  ├── main.py
  ├── nave.png
- ├── enemigo.png
- ├── puntaje.txt
- ├── Space_Invader_v_1.0.0.zip  
- └── README.md
+ └── puntaje.txt
+/README.md
