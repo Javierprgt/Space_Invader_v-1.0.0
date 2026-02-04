@@ -12,10 +12,10 @@
    [Descargar Space Invader.exe](https://github.com/Javierprgt/Space_Invader_v-1.0.0/raw/refs/heads/main/Ejecutable/Space_Invader_v_1.0.0.zip)
 
 2. ### Extracción del archivo
-Una vez descargado el archivo `.zip`, descomprima su contenido en una carpeta de su elección.
+   Una vez descargado el archivo `.zip`, descomprima su contenido en una carpeta de su elección.
 
 3. ### Gestión de permisos
-Durante la descarga, el navegador puede mostrar un aviso de seguridad. En ese caso, seleccione la opción **“Aceptar archivo”** o **“Conservar”** para continuar.
+   Durante la descarga, el navegador puede mostrar un aviso de seguridad. En ese caso, seleccione la opción **“Aceptar archivo”** o **“Conservar”** para continuar.
 
 4. ### Ejecución del videojuego
 - Ingrese a la carpeta descomprimida.
@@ -23,7 +23,7 @@ Durante la descarga, el navegador puede mostrar un aviso de seguridad. En ese ca
 - Si Windows muestra una advertencia de seguridad, haga clic en **“Más información”** y luego en **“Ejecutar de todas formas”**.
 
 5. ### Finalización
-Una vez ejecutado, el videojuego se iniciará correctamente y estará listo para su uso.
+   Una vez ejecutado, el videojuego se iniciará correctamente y estará listo para su uso.
 
 ---
 
