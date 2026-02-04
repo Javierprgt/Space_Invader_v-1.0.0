@@ -7,7 +7,7 @@
 
 1. **Descarga del archivo:**  
    Obtener el ejecutable desde el siguiente enlace directo:  
-   [Descargar Space Invader.exe](https://github.com/Javierprgt/Space_Invader_v-1.0.0/raw/refs/heads/main/Ejecutable/Videojuego_ProyectoFinal.zip)
+   [Descargar Space Invader.exe](https://github.com/Javierprgt/Space_Invader_v-1.0.0/raw/refs/heads/main/Ejecutable/Space_Invader_v_1.0.0.zip)
 
 2. **Gestión de permisos:**  
    Al iniciar la descarga, el navegador podría solicitar una confirmación de seguridad; se debe seleccionar **"Aceptar archivo sin verificación"**.
