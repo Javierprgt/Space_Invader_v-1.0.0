@@ -69,6 +69,7 @@ El sistema actualiza el puntaje y controla el avance de niveles en tiempo real. 
  └── Space_Invader_v_1.0.0.zip
 /ProyectoVideojuego
  ├── AED-Grupo4-Informe-ProyectoFinal.pdf
+ ├── Proyecto_Final_Presentación.pdf
  ├── enemigo.png
  ├── icono.io
  ├── main.py
